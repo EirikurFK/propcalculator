@@ -4,13 +4,10 @@ import PySimpleGUI as sg
 from functions.class_property import Property
 from math import log
 
-def update_value(key, new_value):
+def update_values(new_value, *keys):
     ''' Update max loan value after an event '''
-    window[f'{key}'].update(value= new_value)
-
-def update_parameter(parameter, new_value):
-    ''' Update max loan value after an event '''
-    window[f'{key}'].update(value= new_value)
+    for key in keys:
+        window[f'{key}'].update(value= new_value)
 
 layout = [
     [sg.TabGroup([[sg.Tab("Property", property_layout), sg.Tab("Loan", loan_layout)]])]
