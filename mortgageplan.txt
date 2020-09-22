@@ -1,0 +1,207 @@
+2025: Eiki's salary: 736033.
+2025: Hildur's salary: 460986.
+2025: Total money after tax: 815443.
+2025: Child expenses: 0.
+2025: Total money after tax and child expenses: 815443.
+2025: Living costs: 250000.
+2025: 69%.
+2025: Total available for mortgage: 565443.
+
+2027: Eiki's salary: 807373.
+2027: Hildur's salary: 480425.
+2027: Total money after tax: 867900.
+2027: Child expenses: 0.
+2027: Total money after tax and child expenses: 867900.
+2027: Living costs: 250000.
+2027: 71%.
+2027: Total available for mortgage: 617900.
+
+2029: Eiki's salary: 872053.
+2029: Hildur's salary: 497966.
+2029: Total money after tax: 915411.
+2029: Child expenses: 0.
+2029: Total money after tax and child expenses: 915411.
+2029: Living costs: 250000.
+2029: 73%.
+2029: Total available for mortgage: 665411.
+
+2031: Eiki's salary: 930074.
+2031: Hildur's salary: 513609.
+2031: Total money after tax: 957979.
+2031: Child expenses: 0.
+2031: Total money after tax and child expenses: 957979.
+2031: Living costs: 250000.
+2031: 74%.
+2031: Total available for mortgage: 707979.
+
+2033: Eiki's salary: 981435.
+2033: Hildur's salary: 527355.
+2033: Total money after tax: 999116.
+2033: Child expenses: 150000.
+2033: Total money after tax and child expenses: 849116.
+2033: Living costs: 250000.
+2033: 60%.
+2033: Total available for mortgage: 599116.
+
+2035: Eiki's salary: 1026136.
+2035: Hildur's salary: 539202.
+2035: Total money after tax: 1028071.
+2035: Child expenses: 150000.
+2035: Total money after tax and child expenses: 878071.
+2035: Living costs: 250000.
+2035: 61%.
+2035: Total available for mortgage: 628071.
+
+2037: Eiki's salary: 1064177.
+2037: Hildur's salary: 549151.
+2037: Total money after tax: 1052635.
+2037: Child expenses: 150000.
+2037: Total money after tax and child expenses: 902635.
+2037: Living costs: 250000.
+2037: 62%.
+2037: Total available for mortgage: 652635.
+
+2039: Eiki's salary: 1095559.
+2039: Hildur's salary: 557203.
+2039: Total money after tax: 1072809.
+2039: Child expenses: 300000.
+2039: Total money after tax and child expenses: 772809.
+2039: Living costs: 250000.
+2039: 49%.
+2039: Total available for mortgage: 522809.
+
+2041: Eiki's salary: 1120281.
+2041: Hildur's salary: 563357.
+2041: Total money after tax: 1088592.
+2041: Child expenses: 300000.
+2041: Total money after tax and child expenses: 788592.
+2041: Living costs: 250000.
+2041: 49%.
+2041: Total available for mortgage: 538592.
+
+2043: Eiki's salary: 1138343.
+2043: Hildur's salary: 567612.
+2043: Total money after tax: 1099984.
+2043: Child expenses: 300000.
+2043: Total money after tax and child expenses: 799984.
+2043: Living costs: 250000.
+2043: 50%.
+2043: Total available for mortgage: 549984.
+
+2045: Eiki's salary: 1149745.
+2045: Hildur's salary: 569970.
+2045: Total money after tax: 1106986.
+2045: Child expenses: 300000.
+2045: Total money after tax and child expenses: 806986.
+2045: Living costs: 250000.
+2045: 50%.
+2045: Total available for mortgage: 556986.
+
+2047: Eiki's salary: 1154488.
+2047: Hildur's salary: 570430.
+2047: Total money after tax: 1109598.
+2047: Child expenses: 300000.
+2047: Total money after tax and child expenses: 809598.
+2047: Living costs: 250000.
+2047: 50%.
+2047: Total available for mortgage: 559598.
+
+2049: Eiki's salary: 1152570.
+2049: Hildur's salary: 568992.
+2049: Total money after tax: 1107818.
+2049: Child expenses: 300000.
+2049: Total money after tax and child expenses: 807818.
+2049: Living costs: 250000.
+2049: 50%.
+2049: Total available for mortgage: 557818.
+
+2051: Eiki's salary: 1143993.
+2051: Hildur's salary: 565656.
+2051: Total money after tax: 1101648.
+2051: Child expenses: 300000.
+2051: Total money after tax and child expenses: 801648.
+2051: Living costs: 250000.
+2051: 50%.
+2051: Total available for mortgage: 551648.
+
+2053: Eiki's salary: 1128757.
+2053: Hildur's salary: 560422.
+2053: Total money after tax: 1091088.
+2053: Child expenses: 250000.
+2053: Total money after tax and child expenses: 841088.
+2053: Living costs: 250000.
+2053: 54%.
+2053: Total available for mortgage: 591088.
+
+2055: Eiki's salary: 1106860.
+2055: Hildur's salary: 553290.
+2055: Total money after tax: 1076136.
+2055: Child expenses: 150000.
+2055: Total money after tax and child expenses: 926136.
+2055: Living costs: 250000.
+2055: 63%.
+2055: Total available for mortgage: 676136.
+
+2057: Eiki's salary: 1078304.
+2057: Hildur's salary: 544260.
+2057: Total money after tax: 1056795.
+2057: Child expenses: 150000.
+2057: Total money after tax and child expenses: 906795.
+2057: Living costs: 250000.
+2057: 62%.
+2057: Total available for mortgage: 656795.
+
+2059: Eiki's salary: 1043088.
+2059: Hildur's salary: 533333.
+2059: Total money after tax: 1033063.
+2059: Child expenses: 100000.
+2059: Total money after tax and child expenses: 933063.
+2059: Living costs: 250000.
+2059: 66%.
+2059: Total available for mortgage: 683063.
+
+2061: Eiki's salary: 1001212.
+2061: Hildur's salary: 520507.
+2061: Total money after tax: 1004941.
+2061: Child expenses: 0.
+2061: Total money after tax and child expenses: 1004941.
+2061: Living costs: 250000.
+2061: 75%.
+2061: Total available for mortgage: 754941.
+
+2063: Eiki's salary: 952676.
+2063: Hildur's salary: 505783.
+2063: Total money after tax: 972426.
+2063: Child expenses: 0.
+2063: Total money after tax and child expenses: 972426.
+2063: Living costs: 250000.
+2063: 74%.
+2063: Total available for mortgage: 722426.
+
+2065: Eiki's salary: 897481.
+2065: Hildur's salary: 489162.
+2065: Total money after tax: 925018.
+2065: Child expenses: 0.
+2065: Total money after tax and child expenses: 925018.
+2065: Living costs: 250000.
+2065: 73%.
+2065: Total available for mortgage: 675018.
+
+2067: Eiki's salary: 835626.
+2067: Hildur's salary: 470643.
+2067: Total money after tax: 878574.
+2067: Child expenses: 0.
+2067: Total money after tax and child expenses: 878574.
+2067: Living costs: 250000.
+2067: 72%.
+2067: Total available for mortgage: 628574.
+
+2069: Eiki's salary: 767111.
+2069: Hildur's salary: 450225.
+2069: Total money after tax: 827183.
+2069: Child expenses: 0.
+2069: Total money after tax and child expenses: 827183.
+2069: Living costs: 250000.
+2069: 70%.
+2069: Total available for mortgage: 577183.
+

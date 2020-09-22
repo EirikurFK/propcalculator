@@ -1,0 +1,761 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title>Fasteignir.is - leitarniðurstöður</title>
+<meta content="" name="description"/>
+<meta content="" name="keywords"/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="http://fasteignir.visir.is/favicon.ico?v=1" rel="SHORTCUT ICON"/>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="//fonts.googleapis.com/css?family=Droid+Sans:400,700|Oswald|Gudea:400,700" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.structure.min.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.theme.min.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/minify/?g=css&amp;v=3be85930760939a2653068d2f18bbe2033616c1e" rel="stylesheet" type="text/css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.11/css/lightgallery.min.css" rel="stylesheet" type="text/css">
+<!-- Compatibility -->
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href=/css/sliderkit-demos-ie6.css" >
+    <![endif]-->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/css/sliderkit-demos-ie7.css">
+    <![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/css/sliderkit-demos-ie8.css">
+    <![endif]-->
+<!--[if lte IE 8]>
+    <link rel="stylesheet"  href='/css/style-lte-ie8.css'>
+    <![endif]-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KC6LQRG');</script>
+<!-- End Google Tag Manager -->
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+<script type="text/javascript">
+
+        var backend = {
+        
+'searchPriceSaleDefaultMin':0,
+'searchPriceSaleDefaultMax':100000000,
+'searchPriceRentDefaultMin':0,
+'searchPriceRentDefaultMax':500000,
+'searchPriceVesselDefaultMin':0,
+'searchPriceVesselDefaultMax':1000000000,
+'searchPriceCompanyDefaultMin':0,
+'searchPriceCompanyDefaultMax':100000000,
+'searchPriceAmplificator':1000000,
+'searchAreaDefaultMin':0,
+'searchAreaDefaultMax':1000,
+'searchAreaRanges':'[0,40,60,70,80,90,100,115,130,150,200,250,300,350,400,500,600,700,800,900,1000]',
+'searchRoomDefaultMin':0,
+'searchRoomDefaultMax':10,
+'searchAgeDefaultMin':1940,
+'searchAgeDefaultMax':2020
+        };
+    </script>
+<!-- Cxense script begin -->
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setSiteId', '1136173084698402307']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';;
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!-- Cxense script end -->
+</link></link></head>
+<body class="layout--wide">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KC6LQRG" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Begin comScore Tag Iceland 1.0 -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "26747560", ns_vsite: "visir.is", ns_vsection: "Fasteignir" });
+	(function () { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=26747560&amp;cv=2.0&amp;cj=1&amp;ns_vsite=visir.is&amp;ns_vsection=Fasteignir"/>; </noscript>
+<!-- End comScore Tag -->
+<div class="noprint mm-fixed-top" id="header">
+<div id="extranav">
+<div class="wrapper">
+<ul class="nav">
+<li class="veidi text"><a href="http://www.visir.is/section/IDROTTIR06/">Veiðivísir</a></li>
+<li class="vedur text"><a href="http://www.visir.is/p/vedur">Veður</a></li>
+<li class="postur"><a href="http://www.visir.is/section/frontpage&amp;Template=loginform">Vefpóstur</a></li>
+<li class="stod2"><a href="http://www.stod2.is">Stöð 2</a></li>
+<li class="bylgjan"><a href="http://bylgjan.visir.is">Bylgjan</a></li>
+<li class="x977"><a href="http://x977.visir.is">X977</a></li>
+<li class="fm957"><a href="http://fm957.visir.is">FM957</a></li>
+<li class="frettabladid last"><a href="http://www.visir.is/paper">Fréttablaðið</a></li>
+</ul>
+</div>
+</div>
+<div class="overlay">
+<div class="wrapper">
+<a class="totop" href="#">Upp</a>
+<div id="nav">
+<ul class="nav">
+<li class="first logo frontpage-nav">
+<a href="http://www.visir.is/section/FRONTPAGE"><span class="span-frontpage nav-span"><span>Forsíða</span></span></a>
+</li>
+<li class="frettir-nav">
+<a href="http://www.visir.is/f/frettir"><span class="span-frettir nav-span">Fréttir</span></a>
+</li>
+<li class="vidskipti-nav">
+<a href="http://www.visir.is/f/vidskipti"><span class="span-vidskipti nav-span">Viðskipti</span></a>
+</li>
+<li class="idrottir-nav">
+<a href="http://www.visir.is/f/sport"><span class="span-idrottir nav-span">Sport</span></a>
+</li>
+<li class="skodanir-nav">
+<a href="http://www.visir.is/f/skodanir"><span class="span-skodanir nav-span">Skoðun</span></a>
+</li>
+<li class="lifid-nav">
+<a href="http://www.visir.is/f/lifid"><span class="span-lifid nav-span">Lífið</span></a>
+</li>
+<li class="fasteignir-nav active">
+<a href="http://fasteignir.visir.is"><span class="span-fasteignir nav-span">Fasteignir</span></a>
+</li>
+<li class="media media-nav">
+<a href="http://www.visir.is/sjonvarp"><span class="span-media nav-span">Sjónvarp</span></a>
+</li>
+<li class="media radio media-nav">
+<a href="http://www.visir.is/utvarp"><span class="span-media nav-span">Útvarp</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="scroll-anchor"></div>
+<div class="banner header-subbanner">
+<div class="wrapper">
+<div class="b-partnerlink responsive">
+<a href="/ads/redirect/1127" target="_blank">
+<picture class="responsive">
+<source media="(max-width: 360px)" srcset="/data/ads/fe680b8e07fd9465f2d46be7c345c0a9.png"/>
+<source media="(max-width: 640px)" srcset="/data/ads/633ee53d27884388730c1bbab58da59d.png"/>
+<img alt="" src="/data/ads/bedf0aa4a37e7ccdcd91cbaa6c11c596.png"/>
+</picture>
+</a>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<div class="menu">
+<div class="mobile-menu-button">
+<span class="menu-name">Valmynd</span>
+<div id="nav-icon1">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+<ul class="desktop-web-navigation">
+<li class="menu__item no-mrg"><a class="menu__link" href="/">Fasteignir.is</a></li>
+<li class="menu__item"><a class="menu__link" href="/realestate/agents">Fasteignasalar innan FF</a></li>
+<li class="menu__item"><a class="menu__link" href="/advice">Góð ráð</a></li>
+<li class="menu__item"><a class="menu__link" href="/realestate/list">Fasteignasölur</a></li>
+<li class="menu__item"><a class="menu__link" href="/hugmyndir-fyrir-heimilid/">Hugmyndir fyrir heimilið</a></li>
+<li class="menu__item"><a class="menu__link b-send-suggestion" href="#send_suggestion">Senda ábendingu</a></li>
+</ul>
+<div class="menu-login" style="display: none;">
+<a alt="user_login" class="inactive pop_block2"></a>
+<!--					<span class="b-login-corner"></span>-->
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="main">
+<div class="wrap">
+<div id="content-placeholder">
+<div class="h-content">
+<!-- sale_search_result_header -->
+<nav class="search__navigation" style="display: none">
+<ul>
+<li><a href="/search/results/?stype=sale#/?stype=sale">Til sölu</a></li>
+<li><a href="/search/results/?stype=rent#/?stype=rent">Til Leigu</a></li>
+<li><a href="/search/results/?stype=companies#/?stype=companies">Fyrirtæki</a></li>
+<li><a href="/search/results/?stype=vessels#/?stype=vessels">Bátar og skip</a></li>
+<li><a href="/realestate/list">Fasteignasölur</a></li>
+<li><a href="/realestate/agents">Fasteignasalar innan FF</a></li>
+<li><a href="/advice">Góð ráð</a></li>
+<li><a href="#">Eignavaktin</a></li>
+</ul>
+</nav>
+<div class="search__header">
+<span class="search__renderselect" id="tracker-action-viewmode">
+<a class="b-products-viewmode current" href="javascript:void(0)" rel="grid"><i class="fa fa-photo"></i> Skoða sem spjöld</a>
+<a class="b-products-viewmode" href="javascript:void(0)" rel="list"><i class="fa fa-list"></i> Skoða sem lista</a>
+</span>
+<span class="search__total"><span id="tracker-total">0</span> eignir</span>
+<select class="search__itemsort" id="tracker-action-sort" name="itemsort" placeholder="Raða eftir...">
+<option value="created">Nýjast efst</option>
+<option value="street">Götuheiti</option>
+<option value="price">Verði</option>
+<option value="size">Stærð</option>
+<option value="category">Flokk</option>
+</select>
+<select class="search__itemcount" id="tracker-action-itemcount" name="itemcount">
+<option value="24">24 á síðu</option>
+<option value="30">30 á síðu</option>
+<option value="45">45 á síðu</option>
+<option value="60">60 á síðu</option>
+</select>
+<span class="search__controls">
+<a class="search__toggle" href="javascript:void(0)"><i class="fa fa-pencil-square-o"></i> Breyta leit</a>
+<a class="search__save" href="javascript:void(0)" id="add-search-favourites" rel=""><i class="fa fa-check-square-o"></i> Vista leit</a>
+</span>
+<div class="search__form">
+<div class="form__close">Loka <i class="fa fa-close"></i></div>
+<div class="form__upper">
+<div class="form__element element--hasDropdown">
+<label>Svæði</label>
+<div class="form__description">Veljið póstnúmer úr lista</div>
+<div class="dropdown">
+<div class="dropdown__toggle"><i class="fa fa-list"></i></div>
+<div class="dropdown__content">
+<form id="menu-svaedi">
+<div id="zip_codes">
+<div id="zip-codes-list">
+<input class="expander in-checkbox" id="zipreykjavik" name="reykjavik" type="checkbox" value="reykjavik"/><label class="in-label in-label--expander" for="zipreykjavik">Reykjavík</label><div class="expandable" id="reykjavik"><ul><li><input class="in-checkbox zip-all" id="zipall-reykjavik-1" name="zipall-reykjavik" type="checkbox" value="-1"/><label class="in-label" for="zipall-reykjavik-1">Velja allt</label></li><li><input class="in-checkbox" id="zip101" name="zip[]" type="checkbox" value="101"/><label class="in-label" for="zip101">101 - Miðbær</label></li><li><input class="in-checkbox" id="zip102" name="zip[]" type="checkbox" value="102"/><label class="in-label" for="zip102">102 - Vatnsmýri</label></li><li><input class="in-checkbox" id="zip103" name="zip[]" type="checkbox" value="103"/><label class="in-label" for="zip103">103 - Kringlan/Hvassal</label></li><li><input class="in-checkbox" id="zip104" name="zip[]" type="checkbox" value="104"/><label class="in-label" for="zip104">104 - Vogar</label></li><li><input class="in-checkbox" id="zip105" name="zip[]" type="checkbox" value="105"/><label class="in-label" for="zip105">105 - Austurbær</label></li><li><input class="in-checkbox" id="zip107" name="zip[]" type="checkbox" value="107"/><label class="in-label" for="zip107">107 - Vesturbær</label></li><li><input class="in-checkbox" id="zip108" name="zip[]" type="checkbox" value="108"/><label class="in-label" for="zip108">108 - Austurbær</label></li><li><input class="in-checkbox" id="zip109" name="zip[]" type="checkbox" value="109"/><label class="in-label" for="zip109">109 - Neðra Breiðholt</label></li><li><input class="in-checkbox" id="zip110" name="zip[]" type="checkbox" value="110"/><label class="in-label" for="zip110">110 - Árbær</label></li><li><input class="in-checkbox" id="zip111" name="zip[]" type="checkbox" value="111"/><label class="in-label" for="zip111">111 - Efra Breiðholt</label></li><li><input class="in-checkbox" id="zip112" name="zip[]" type="checkbox" value="112"/><label class="in-label" for="zip112">112 - Grafarvogur</label></li><li><input class="in-checkbox" id="zip113" name="zip[]" type="checkbox" value="113"/><label class="in-label" for="zip113">113 - Grafarholt</label></li><li><input class="in-checkbox" id="zip116" name="zip[]" type="checkbox" value="116"/><label class="in-label" for="zip116">116 - Kjalarnes</label></li><li><input class="in-checkbox" id="zip162" name="zip[]" type="checkbox" value="162"/><label class="in-label" for="zip162">162 - Kjalarnes</label></li></ul></div><input class="expander in-checkbox" id="zipkopavogur" name="kopavogur" type="checkbox" value="kopavogur"/><label class="in-label in-label--expander" for="zipkopavogur">Kópavogur</label><div class="expandable" id="kopavogur"><ul><li><input class="in-checkbox zip-all" id="zipall-kopavogur-1" name="zipall-kopavogur" type="checkbox" value="-1"/><label class="in-label" for="zipall-kopavogur-1">Velja allt</label></li><li><input class="in-checkbox" id="zip200" name="zip[]" type="checkbox" value="200"/><label class="in-label" for="zip200">200 - Kópavogur</label></li><li><input class="in-checkbox" id="zip201" name="zip[]" type="checkbox" value="201"/><label class="in-label" for="zip201">201 - Kópavogur</label></li><li><input class="in-checkbox" id="zip202" name="zip[]" type="checkbox" value="202"/><label class="in-label" for="zip202">202 - Kópavogur</label></li><li><input class="in-checkbox" id="zip203" name="zip[]" type="checkbox" value="203"/><label class="in-label" for="zip203">203 - Kópavogur</label></li></ul></div><input class="expander in-checkbox" id="zipgardabaer" name="gardabaer" type="checkbox" value="gardabaer"/><label class="in-label in-label--expander" for="zipgardabaer">Garðabær</label><div class="expandable" id="gardabaer"><ul><li><input class="in-checkbox" id="zip210" name="zip[]" type="checkbox" value="210"/><label class="in-label" for="zip210">210 - Garðabær</label></li><li><input class="in-checkbox" id="zip212" name="zip[]" type="checkbox" value="212"/><label class="in-label" for="zip212">212 - Garðabær</label></li><li><input class="in-checkbox" id="zip225" name="zip[]" type="checkbox" value="225"/><label class="in-label" for="zip225">225 - Garðabær</label></li></ul></div><input class="expander in-checkbox" id="ziphafnarfjordur" name="hafnarfjordur" type="checkbox" value="hafnarfjordur"/><label class="in-label in-label--expander" for="ziphafnarfjordur">Hafnarfjörður</label><div class="expandable" id="hafnarfjordur"><ul><li><input class="in-checkbox" id="zip220" name="zip[]" type="checkbox" value="220"/><label class="in-label" for="zip220">220 - Hafnarfjörður</label></li><li><input class="in-checkbox" id="zip221" name="zip[]" type="checkbox" value="221"/><label class="in-label" for="zip221">221 - Hafnarfjörður</label></li><li><input class="in-checkbox" id="zip222" name="zip[]" type="checkbox" value="222"/><label class="in-label" for="zip222">222 - Hafnarfjörður</label></li></ul></div><input class="expander in-checkbox" id="zipmosfellsbaer" name="mosfellsbaer" type="checkbox" value="mosfellsbaer"/><label class="in-label in-label--expander" for="zipmosfellsbaer">Mosfellsbær</label><div class="expandable" id="mosfellsbaer"><ul><li><input class="in-checkbox" id="zip270" name="zip[]" type="checkbox" value="270"/><label class="in-label" for="zip270">270 - Mosfellsbær</label></li><li><input class="in-checkbox" id="zip271" name="zip[]" type="checkbox" value="271"/><label class="in-label" for="zip271">271 - Mosfellsbær</label></li><li><input class="in-checkbox" id="zip276" name="zip[]" type="checkbox" value="276"/><label class="in-label" for="zip276">276 - Mosfellsbær</label></li></ul></div><input class="expander in-checkbox" id="zipseltjarnarnes" name="seltjarnarnes" type="checkbox" value="seltjarnarnes"/><label class="in-label in-label--expander" for="zipseltjarnarnes">Seltjarnarnes</label><div class="expandable" id="seltjarnarnes"><ul><li><input class="in-checkbox" id="zip170" name="zip[]" type="checkbox" value="170"/><label class="in-label" for="zip170">170 - Seltjarnarnes</label></li></ul></div><input class="expander in-checkbox" id="zipsudurnes" name="sudurnes" type="checkbox" value="sudurnes"/><label class="in-label in-label--expander" for="zipsudurnes">Suðurnes</label><div class="expandable" id="sudurnes"><ul><li><input class="in-checkbox zip-all" id="zipall-sudurnes-1" name="zipall-sudurnes" type="checkbox" value="-1"/><label class="in-label" for="zipall-sudurnes-1">Velja allt</label></li><li><input class="in-checkbox" id="zip230" name="zip[]" type="checkbox" value="230"/><label class="in-label" for="zip230">230 - Keflavík</label></li><li><input class="in-checkbox" id="zip232" name="zip[]" type="checkbox" value="232"/><label class="in-label" for="zip232">232 - Keflavík</label></li><li><input class="in-checkbox" id="zip233" name="zip[]" type="checkbox" value="233"/><label class="in-label" for="zip233">233 - Hafnir</label></li><li><input class="in-checkbox" id="zip262" name="zip[]" type="checkbox" value="262"/><label class="in-label" for="zip262">262 - Reykjanesbær</label></li><li><input class="in-checkbox" id="zip235" name="zip[]" type="checkbox" value="235"/><label class="in-label" for="zip235">235 - Ásbrú</label></li><li><input class="in-checkbox" id="zip240" name="zip[]" type="checkbox" value="240"/><label class="in-label" for="zip240">240 - Grindavík</label></li><li><input class="in-checkbox" id="zip241" name="zip[]" type="checkbox" value="241"/><label class="in-label" for="zip241">241 - Grindavík</label></li><li><input class="in-checkbox" id="zip245" name="zip[]" type="checkbox" value="245"/><label class="in-label" for="zip245">245 - Suðurnesjabær</label></li><li><input class="in-checkbox" id="zip246" name="zip[]" type="checkbox" value="246"/><label class="in-label" for="zip246">246 - Suðurnesjabær</label></li><li><input class="in-checkbox" id="zip250" name="zip[]" type="checkbox" value="250"/><label class="in-label" for="zip250">250 - Suðurnesjabær</label></li><li><input class="in-checkbox" id="zip251" name="zip[]" type="checkbox" value="251"/><label class="in-label" for="zip251">251 - Suðurnesjabær</label></li><li><input class="in-checkbox" id="zip260" name="zip[]" type="checkbox" value="260"/><label class="in-label" for="zip260">260 - Njarðvík</label></li><li><input class="in-checkbox" id="zip190" name="zip[]" type="checkbox" value="190"/><label class="in-label" for="zip190">190 - Vogar</label></li><li><input class="in-checkbox" id="zip191" name="zip[]" type="checkbox" value="191"/><label class="in-label" for="zip191">191 - Vogar</label></li></ul></div><input class="expander in-checkbox" id="zipnordurland" name="nordurland" type="checkbox" value="nordurland"/><label class="in-label in-label--expander" for="zipnordurland">Norðurland</label><div class="expandable" id="nordurland"><ul><li><input class="in-checkbox zip-all" id="zipall-nordurland-1" name="zipall-nordurland" type="checkbox" value="-1"/><label class="in-label" for="zipall-nordurland-1">Velja allt</label></li><li><input class="in-checkbox" id="zip500" name="zip[]" type="checkbox" value="500"/><label class="in-label" for="zip500">500 - Staður</label></li><li><input class="in-checkbox" id="zip510" name="zip[]" type="checkbox" value="510"/><label class="in-label" for="zip510">510 - Hólmavík</label></li><li><input class="in-checkbox" id="zip511" name="zip[]" type="checkbox" value="511"/><label class="in-label" for="zip511">511 - Hólmavík</label></li><li><input class="in-checkbox" id="zip512" name="zip[]" type="checkbox" value="512"/><label class="in-label" for="zip512">512 - Hólmavík</label></li><li><input class="in-checkbox" id="zip520" name="zip[]" type="checkbox" value="520"/><label class="in-label" for="zip520">520 - Drangsnes</label></li><li><input class="in-checkbox" id="zip522" name="zip[]" type="checkbox" value="522"/><label class="in-label" for="zip522">522 - Kjörvogur</label></li><li><input class="in-checkbox" id="zip523" name="zip[]" type="checkbox" value="523"/><label class="in-label" for="zip523">523 - Bær</label></li><li><input class="in-checkbox" id="zip524" name="zip[]" type="checkbox" value="524"/><label class="in-label" for="zip524">524 - Norðurfjörður</label></li><li><input class="in-checkbox" id="zip530" name="zip[]" type="checkbox" value="530"/><label class="in-label" for="zip530">530 - Hvammstangi</label></li><li><input class="in-checkbox" id="zip531" name="zip[]" type="checkbox" value="531"/><label class="in-label" for="zip531">531 - Hvammstangi</label></li><li><input class="in-checkbox" id="zip540" name="zip[]" type="checkbox" value="540"/><label class="in-label" for="zip540">540 - Blönduós</label></li><li><input class="in-checkbox" id="zip541" name="zip[]" type="checkbox" value="541"/><label class="in-label" for="zip541">541 - Blönduós</label></li><li><input class="in-checkbox" id="zip545" name="zip[]" type="checkbox" value="545"/><label class="in-label" for="zip545">545 - Skagaströnd</label></li><li><input class="in-checkbox" id="zip546" name="zip[]" type="checkbox" value="546"/><label class="in-label" for="zip546">546 - Skagaströnd</label></li><li><input class="in-checkbox" id="zip550" name="zip[]" type="checkbox" value="550"/><label class="in-label" for="zip550">550 - Sauðárkrókur</label></li><li><input class="in-checkbox" id="zip551" name="zip[]" type="checkbox" value="551"/><label class="in-label" for="zip551">551 - Sauðárkrókur</label></li><li><input class="in-checkbox" id="zip560" name="zip[]" type="checkbox" value="560"/><label class="in-label" for="zip560">560 - Varmahlíð</label></li><li><input class="in-checkbox" id="zip561" name="zip[]" type="checkbox" value="561"/><label class="in-label" for="zip561">561 - Varmahlíð</label></li><li><input class="in-checkbox" id="zip565" name="zip[]" type="checkbox" value="565"/><label class="in-label" for="zip565">565 - Hofsós</label></li><li><input class="in-checkbox" id="zip566" name="zip[]" type="checkbox" value="566"/><label class="in-label" for="zip566">566 - Hofsós</label></li><li><input class="in-checkbox" id="zip570" name="zip[]" type="checkbox" value="570"/><label class="in-label" for="zip570">570 - Fljót</label></li><li><input class="in-checkbox" id="zip580" name="zip[]" type="checkbox" value="580"/><label class="in-label" for="zip580">580 - Siglufjörður</label></li><li><input class="in-checkbox" id="zip581" name="zip[]" type="checkbox" value="581"/><label class="in-label" for="zip581">581 - Siglufjörður</label></li><li><input class="in-checkbox" id="zip600" name="zip[]" type="checkbox" value="600"/><label class="in-label" for="zip600">600 - Akureyri</label></li><li><input class="in-checkbox" id="zip601" name="zip[]" type="checkbox" value="601"/><label class="in-label" for="zip601">601 - Akureyri</label></li><li><input class="in-checkbox" id="zip602" name="zip[]" type="checkbox" value="602"/><label class="in-label" for="zip602">602 - Akureyri</label></li><li><input class="in-checkbox" id="zip603" name="zip[]" type="checkbox" value="603"/><label class="in-label" for="zip603">603 - Akureyri</label></li><li><input class="in-checkbox" id="zip604" name="zip[]" type="checkbox" value="604"/><label class="in-label" for="zip604">604 - Akureyri</label></li><li><input class="in-checkbox" id="zip605" name="zip[]" type="checkbox" value="605"/><label class="in-label" for="zip605">605 - Akureyri</label></li><li><input class="in-checkbox" id="zip606" name="zip[]" type="checkbox" value="606"/><label class="in-label" for="zip606">606 - Akureyri</label></li><li><input class="in-checkbox" id="zip607" name="zip[]" type="checkbox" value="607"/><label class="in-label" for="zip607">607 - Akureyri</label></li><li><input class="in-checkbox" id="zip610" name="zip[]" type="checkbox" value="610"/><label class="in-label" for="zip610">610 - Grenivík</label></li><li><input class="in-checkbox" id="zip616" name="zip[]" type="checkbox" value="616"/><label class="in-label" for="zip616">616 - Grenivík</label></li><li><input class="in-checkbox" id="zip611" name="zip[]" type="checkbox" value="611"/><label class="in-label" for="zip611">611 - Grímsey</label></li><li><input class="in-checkbox" id="zip620" name="zip[]" type="checkbox" value="620"/><label class="in-label" for="zip620">620 - Dalvík</label></li><li><input class="in-checkbox" id="zip621" name="zip[]" type="checkbox" value="621"/><label class="in-label" for="zip621">621 - Dalvík</label></li><li><input class="in-checkbox" id="zip625" name="zip[]" type="checkbox" value="625"/><label class="in-label" for="zip625">625 - Ólafsfjörður</label></li><li><input class="in-checkbox" id="zip626" name="zip[]" type="checkbox" value="626"/><label class="in-label" for="zip626">626 - Ólafsfjörður</label></li><li><input class="in-checkbox" id="zip630" name="zip[]" type="checkbox" value="630"/><label class="in-label" for="zip630">630 - Hrísey</label></li><li><input class="in-checkbox" id="zip640" name="zip[]" type="checkbox" value="640"/><label class="in-label" for="zip640">640 - Húsavík</label></li><li><input class="in-checkbox" id="zip641" name="zip[]" type="checkbox" value="641"/><label class="in-label" for="zip641">641 - Húsavík</label></li><li><input class="in-checkbox" id="zip645" name="zip[]" type="checkbox" value="645"/><label class="in-label" for="zip645">645 - Fosshóll</label></li><li><input class="in-checkbox" id="zip650" name="zip[]" type="checkbox" value="650"/><label class="in-label" for="zip650">650 - Laugar</label></li><li><input class="in-checkbox" id="zip660" name="zip[]" type="checkbox" value="660"/><label class="in-label" for="zip660">660 - Mývatn</label></li><li><input class="in-checkbox" id="zip670" name="zip[]" type="checkbox" value="670"/><label class="in-label" for="zip670">670 - Kópasker</label></li><li><input class="in-checkbox" id="zip671" name="zip[]" type="checkbox" value="671"/><label class="in-label" for="zip671">671 - Kópasker</label></li><li><input class="in-checkbox" id="zip675" name="zip[]" type="checkbox" value="675"/><label class="in-label" for="zip675">675 - Raufarhöfn</label></li><li><input class="in-checkbox" id="zip680" name="zip[]" type="checkbox" value="680"/><label class="in-label" for="zip680">680 - Þórshöfn</label></li><li><input class="in-checkbox" id="zip681" name="zip[]" type="checkbox" value="681"/><label class="in-label" for="zip681">681 - Þórshöfn</label></li></ul></div><input class="expander in-checkbox" id="zipvestfirdir" name="vestfirdir" type="checkbox" value="vestfirdir"/><label class="in-label in-label--expander" for="zipvestfirdir">Vestfirðir</label><div class="expandable" id="vestfirdir"><ul><li><input class="in-checkbox zip-all" id="zipall-vestfirdir-1" name="zipall-vestfirdir" type="checkbox" value="-1"/><label class="in-label" for="zipall-vestfirdir-1">Velja allt</label></li><li><input class="in-checkbox" id="zip400" name="zip[]" type="checkbox" value="400"/><label class="in-label" for="zip400">400 - Ísafjörður</label></li><li><input class="in-checkbox" id="zip401" name="zip[]" type="checkbox" value="401"/><label class="in-label" for="zip401">401 - Ísafjörður</label></li><li><input class="in-checkbox" id="zip410" name="zip[]" type="checkbox" value="410"/><label class="in-label" for="zip410">410 - Hnífsdalur</label></li><li><input class="in-checkbox" id="zip415" name="zip[]" type="checkbox" value="415"/><label class="in-label" for="zip415">415 - Bolungarvík</label></li><li><input class="in-checkbox" id="zip416" name="zip[]" type="checkbox" value="416"/><label class="in-label" for="zip416">416 - Bolungarvík</label></li><li><input class="in-checkbox" id="zip420" name="zip[]" type="checkbox" value="420"/><label class="in-label" for="zip420">420 - Súðavík</label></li><li><input class="in-checkbox" id="zip421" name="zip[]" type="checkbox" value="421"/><label class="in-label" for="zip421">421 - Súðavík</label></li><li><input class="in-checkbox" id="zip425" name="zip[]" type="checkbox" value="425"/><label class="in-label" for="zip425">425 - Flateyri</label></li><li><input class="in-checkbox" id="zip426" name="zip[]" type="checkbox" value="426"/><label class="in-label" for="zip426">426 - Flateyri</label></li><li><input class="in-checkbox" id="zip430" name="zip[]" type="checkbox" value="430"/><label class="in-label" for="zip430">430 - Suðureyri</label></li><li><input class="in-checkbox" id="zip431" name="zip[]" type="checkbox" value="431"/><label class="in-label" for="zip431">431 - Suðureyri</label></li><li><input class="in-checkbox" id="zip450" name="zip[]" type="checkbox" value="450"/><label class="in-label" for="zip450">450 - Patreksfjörður</label></li><li><input class="in-checkbox" id="zip451" name="zip[]" type="checkbox" value="451"/><label class="in-label" for="zip451">451 - Patreksfjörður</label></li><li><input class="in-checkbox" id="zip460" name="zip[]" type="checkbox" value="460"/><label class="in-label" for="zip460">460 - Tálknafjörður</label></li><li><input class="in-checkbox" id="zip461" name="zip[]" type="checkbox" value="461"/><label class="in-label" for="zip461">461 - Tálknafjörður</label></li><li><input class="in-checkbox" id="zip465" name="zip[]" type="checkbox" value="465"/><label class="in-label" for="zip465">465 - Bíldudalur</label></li><li><input class="in-checkbox" id="zip466" name="zip[]" type="checkbox" value="466"/><label class="in-label" for="zip466">466 - Bíldudalur</label></li><li><input class="in-checkbox" id="zip470" name="zip[]" type="checkbox" value="470"/><label class="in-label" for="zip470">470 - Þingeyri</label></li><li><input class="in-checkbox" id="zip471" name="zip[]" type="checkbox" value="471"/><label class="in-label" for="zip471">471 - Þingeyri</label></li></ul></div><input class="expander in-checkbox" id="zipvesturland" name="vesturland" type="checkbox" value="vesturland"/><label class="in-label in-label--expander" for="zipvesturland">Vesturland</label><div class="expandable" id="vesturland"><ul><li><input class="in-checkbox zip-all" id="zipall-vesturland-1" name="zipall-vesturland" type="checkbox" value="-1"/><label class="in-label" for="zipall-vesturland-1">Velja allt</label></li><li><input class="in-checkbox" id="zip300" name="zip[]" type="checkbox" value="300"/><label class="in-label" for="zip300">300 - Akranes</label></li><li><input class="in-checkbox" id="zip301" name="zip[]" type="checkbox" value="301"/><label class="in-label" for="zip301">301 - Akranes</label></li><li><input class="in-checkbox" id="zip302" name="zip[]" type="checkbox" value="302"/><label class="in-label" for="zip302">302 - Akranes</label></li><li><input class="in-checkbox" id="zip310" name="zip[]" type="checkbox" value="310"/><label class="in-label" for="zip310">310 - Borgarnes</label></li><li><input class="in-checkbox" id="zip311" name="zip[]" type="checkbox" value="311"/><label class="in-label" for="zip311">311 - Borgarbyggð</label></li><li><input class="in-checkbox" id="zip320" name="zip[]" type="checkbox" value="320"/><label class="in-label" for="zip320">320 - Reykholt í Borgarfirði</label></li><li><input class="in-checkbox" id="zip340" name="zip[]" type="checkbox" value="340"/><label class="in-label" for="zip340">340 - Stykkishólmur</label></li><li><input class="in-checkbox" id="zip341" name="zip[]" type="checkbox" value="341"/><label class="in-label" for="zip341">341 - Stykkishólmur</label></li><li><input class="in-checkbox" id="zip342" name="zip[]" type="checkbox" value="342"/><label class="in-label" for="zip342">342 - Stykkishólmur</label></li><li><input class="in-checkbox" id="zip345" name="zip[]" type="checkbox" value="345"/><label class="in-label" for="zip345">345 - Flatey á Breiðafirði</label></li><li><input class="in-checkbox" id="zip350" name="zip[]" type="checkbox" value="350"/><label class="in-label" for="zip350">350 - Grundarfjörður</label></li><li><input class="in-checkbox" id="zip351" name="zip[]" type="checkbox" value="351"/><label class="in-label" for="zip351">351 - Grundarfjörður</label></li><li><input class="in-checkbox" id="zip355" name="zip[]" type="checkbox" value="355"/><label class="in-label" for="zip355">355 - Snæfellsbær</label></li><li><input class="in-checkbox" id="zip356" name="zip[]" type="checkbox" value="356"/><label class="in-label" for="zip356">356 - Snæfellsbær</label></li><li><input class="in-checkbox" id="zip360" name="zip[]" type="checkbox" value="360"/><label class="in-label" for="zip360">360 - Snæfellsbær</label></li><li><input class="in-checkbox" id="zip370" name="zip[]" type="checkbox" value="370"/><label class="in-label" for="zip370">370 - Búðardalur</label></li><li><input class="in-checkbox" id="zip371" name="zip[]" type="checkbox" value="371"/><label class="in-label" for="zip371">371 - Búðardalur</label></li><li><input class="in-checkbox" id="zip380" name="zip[]" type="checkbox" value="380"/><label class="in-label" for="zip380">380 - Króksfjarðarnes</label></li><li><input class="in-checkbox" id="zip381" name="zip[]" type="checkbox" value="381"/><label class="in-label" for="zip381">381 - Reykhólahreppur</label></li></ul></div><input class="expander in-checkbox" id="zipausturland" name="austurland" type="checkbox" value="austurland"/><label class="in-label in-label--expander" for="zipausturland">Austurland</label><div class="expandable" id="austurland"><ul><li><input class="in-checkbox zip-all" id="zipall-austurland-1" name="zipall-austurland" type="checkbox" value="-1"/><label class="in-label" for="zipall-austurland-1">Velja allt</label></li><li><input class="in-checkbox" id="zip685" name="zip[]" type="checkbox" value="685"/><label class="in-label" for="zip685">685 - Bakkafjörður</label></li><li><input class="in-checkbox" id="zip690" name="zip[]" type="checkbox" value="690"/><label class="in-label" for="zip690">690 - Vopnafjörður</label></li><li><input class="in-checkbox" id="zip691" name="zip[]" type="checkbox" value="691"/><label class="in-label" for="zip691">691 - Vopnafjörður</label></li><li><input class="in-checkbox" id="zip700" name="zip[]" type="checkbox" value="700"/><label class="in-label" for="zip700">700 - Egilsstaðir</label></li><li><input class="in-checkbox" id="zip701" name="zip[]" type="checkbox" value="701"/><label class="in-label" for="zip701">701 - Egilsstaðir</label></li><li><input class="in-checkbox" id="zip710" name="zip[]" type="checkbox" value="710"/><label class="in-label" for="zip710">710 - Seyðisfjörður</label></li><li><input class="in-checkbox" id="zip711" name="zip[]" type="checkbox" value="711"/><label class="in-label" for="zip711">711 - Seyðisfjörður</label></li><li><input class="in-checkbox" id="zip711" name="zip[]" type="checkbox" value="711"/><label class="in-label" for="zip711">711 - Seyðisfjörður</label></li><li><input class="in-checkbox" id="zip715" name="zip[]" type="checkbox" value="715"/><label class="in-label" for="zip715">715 - Mjóifjörður</label></li><li><input class="in-checkbox" id="zip720" name="zip[]" type="checkbox" value="720"/><label class="in-label" for="zip720">720 - Borgarfjörður</label></li><li><input class="in-checkbox" id="zip721" name="zip[]" type="checkbox" value="721"/><label class="in-label" for="zip721">721 - Borgarfjörður</label></li><li><input class="in-checkbox" id="zip730" name="zip[]" type="checkbox" value="730"/><label class="in-label" for="zip730">730 - Reyðarfjörður</label></li><li><input class="in-checkbox" id="zip731" name="zip[]" type="checkbox" value="731"/><label class="in-label" for="zip731">731 - Reyðarfjörður</label></li><li><input class="in-checkbox" id="zip735" name="zip[]" type="checkbox" value="735"/><label class="in-label" for="zip735">735 - Eskifjörður</label></li><li><input class="in-checkbox" id="zip736" name="zip[]" type="checkbox" value="736"/><label class="in-label" for="zip736">736 - Eskifjörður</label></li><li><input class="in-checkbox" id="zip740" name="zip[]" type="checkbox" value="740"/><label class="in-label" for="zip740">740 - Neskaupstaður</label></li><li><input class="in-checkbox" id="zip741" name="zip[]" type="checkbox" value="741"/><label class="in-label" for="zip741">741 - Neskaupstaður</label></li><li><input class="in-checkbox" id="zip750" name="zip[]" type="checkbox" value="750"/><label class="in-label" for="zip750">750 - Fáskrúðsfjörður</label></li><li><input class="in-checkbox" id="zip751" name="zip[]" type="checkbox" value="751"/><label class="in-label" for="zip751">751 - Fáskrúðsfjörður</label></li><li><input class="in-checkbox" id="zip755" name="zip[]" type="checkbox" value="755"/><label class="in-label" for="zip755">755 - Stöðvarfjörður</label></li><li><input class="in-checkbox" id="zip756" name="zip[]" type="checkbox" value="756"/><label class="in-label" for="zip756">756 - Stöðvarfjörður</label></li><li><input class="in-checkbox" id="zip760" name="zip[]" type="checkbox" value="760"/><label class="in-label" for="zip760">760 - Breiðdalsvík</label></li><li><input class="in-checkbox" id="zip761" name="zip[]" type="checkbox" value="761"/><label class="in-label" for="zip761">761 - Breiðdalsvík</label></li><li><input class="in-checkbox" id="zip765" name="zip[]" type="checkbox" value="765"/><label class="in-label" for="zip765">765 - Djúpivogur</label></li><li><input class="in-checkbox" id="zip780" name="zip[]" type="checkbox" value="780"/><label class="in-label" for="zip780">780 - Höfn í Hornafirði</label></li><li><input class="in-checkbox" id="zip781" name="zip[]" type="checkbox" value="781"/><label class="in-label" for="zip781">781 - Höfn í Hornafirði</label></li><li><input class="in-checkbox" id="zip785" name="zip[]" type="checkbox" value="785"/><label class="in-label" for="zip785">785 - Fagurhólsmýri</label></li></ul></div><input class="expander in-checkbox" id="zipsudurland" name="sudurland" type="checkbox" value="sudurland"/><label class="in-label in-label--expander" for="zipsudurland">Suðurland</label><div class="expandable" id="sudurland"><ul><li><input class="in-checkbox zip-all" id="zipall-sudurland-1" name="zipall-sudurland" type="checkbox" value="-1"/><label class="in-label" for="zipall-sudurland-1">Velja allt</label></li><li><input class="in-checkbox" id="zip800" name="zip[]" type="checkbox" value="800"/><label class="in-label" for="zip800">800 - Selfoss</label></li><li><input class="in-checkbox" id="zip801" name="zip[]" type="checkbox" value="801"/><label class="in-label" for="zip801">801 - Selfoss</label></li><li><input class="in-checkbox" id="zip802" name="zip[]" type="checkbox" value="802"/><label class="in-label" for="zip802">802 - Selfoss</label></li><li><input class="in-checkbox" id="zip803" name="zip[]" type="checkbox" value="803"/><label class="in-label" for="zip803">803 - Selfoss</label></li><li><input class="in-checkbox" id="zip804" name="zip[]" type="checkbox" value="804"/><label class="in-label" for="zip804">804 - Selfoss</label></li><li><input class="in-checkbox" id="zip805" name="zip[]" type="checkbox" value="805"/><label class="in-label" for="zip805">805 - Selfoss</label></li><li><input class="in-checkbox" id="zip806" name="zip[]" type="checkbox" value="806"/><label class="in-label" for="zip806">806 - Selfoss</label></li><li><input class="in-checkbox" id="zip810" name="zip[]" type="checkbox" value="810"/><label class="in-label" for="zip810">810 - Hveragerði</label></li><li><input class="in-checkbox" id="zip815" name="zip[]" type="checkbox" value="815"/><label class="in-label" for="zip815">815 - Þorlákshöfn</label></li><li><input class="in-checkbox" id="zip816" name="zip[]" type="checkbox" value="816"/><label class="in-label" for="zip816">816 - Ölfus</label></li><li><input class="in-checkbox" id="zip820" name="zip[]" type="checkbox" value="820"/><label class="in-label" for="zip820">820 - Eyrarbakki</label></li><li><input class="in-checkbox" id="zip825" name="zip[]" type="checkbox" value="825"/><label class="in-label" for="zip825">825 - Stokkseyri</label></li><li><input class="in-checkbox" id="zip840" name="zip[]" type="checkbox" value="840"/><label class="in-label" for="zip840">840 - Laugarvatn</label></li><li><input class="in-checkbox" id="zip845" name="zip[]" type="checkbox" value="845"/><label class="in-label" for="zip845">845 - Flúðir</label></li><li><input class="in-checkbox" id="zip846" name="zip[]" type="checkbox" value="846"/><label class="in-label" for="zip846">846 - Flúðir</label></li><li><input class="in-checkbox" id="zip850" name="zip[]" type="checkbox" value="850"/><label class="in-label" for="zip850">850 - Hella</label></li><li><input class="in-checkbox" id="zip851" name="zip[]" type="checkbox" value="851"/><label class="in-label" for="zip851">851 - Hella</label></li><li><input class="in-checkbox" id="zip860" name="zip[]" type="checkbox" value="860"/><label class="in-label" for="zip860">860 - Hvolsvöllur</label></li><li><input class="in-checkbox" id="zip861" name="zip[]" type="checkbox" value="861"/><label class="in-label" for="zip861">861 - Hvolsvöllur</label></li><li><input class="in-checkbox" id="zip870" name="zip[]" type="checkbox" value="870"/><label class="in-label" for="zip870">870 - Vík</label></li><li><input class="in-checkbox" id="zip871" name="zip[]" type="checkbox" value="871"/><label class="in-label" for="zip871">871 - Vík</label></li><li><input class="in-checkbox" id="zip880" name="zip[]" type="checkbox" value="880"/><label class="in-label" for="zip880">880 - Kirkjubæjarklaustur</label></li><li><input class="in-checkbox" id="zip881" name="zip[]" type="checkbox" value="881"/><label class="in-label" for="zip881">881 - Kirkjubæjarklaustur</label></li><li><input class="in-checkbox" id="zip900" name="zip[]" type="checkbox" value="900"/><label class="in-label" for="zip900">900 - Vestmannaeyjar</label></li><li><input class="in-checkbox" id="zip901" name="zip[]" type="checkbox" value="901"/><label class="in-label" for="zip901">901 - Vestmannaeyjabær</label></li></ul></div><input class="expander in-checkbox" id="ziputlond" name="utlond" type="checkbox" value="utlond"/><label class="in-label in-label--expander" for="ziputlond">Útlönd</label><div class="expandable" id="utlond"><ul><li><input class="in-checkbox zip-all" id="zipall-erlendis-1" name="zipall-erlendis" type="checkbox" value="-1"/><label class="in-label" for="zipall-erlendis-1">Velja allt</label></li><li><input class="in-checkbox" id="zip950" name="zip[]" type="checkbox" value="950"/><label class="in-label" for="zip950">950 - Spánn - Annað</label></li><li><input class="in-checkbox" id="zip951" name="zip[]" type="checkbox" value="951"/><label class="in-label" for="zip951">951 - Spánn - Costa Brava</label></li><li><input class="in-checkbox" id="zip952" name="zip[]" type="checkbox" value="952"/><label class="in-label" for="zip952">952 - Spánn - Costa Dorada</label></li><li><input class="in-checkbox" id="zip953" name="zip[]" type="checkbox" value="953"/><label class="in-label" for="zip953">953 - Spánn - Costa Blanca</label></li><li><input class="in-checkbox" id="zip954" name="zip[]" type="checkbox" value="954"/><label class="in-label" for="zip954">954 - Spánn - Costa del Sol</label></li><li><input class="in-checkbox" id="zip955" name="zip[]" type="checkbox" value="955"/><label class="in-label" for="zip955">955 - Spánn - Kanaríeyjar</label></li><li><input class="in-checkbox" id="zip970" name="zip[]" type="checkbox" value="970"/><label class="in-label" for="zip970">970 - Portúgal - Annað</label></li><li><input class="in-checkbox" id="zip971" name="zip[]" type="checkbox" value="971"/><label class="in-label" for="zip971">971 - Portúgal - Algarve</label></li><li><input class="in-checkbox" id="zip980" name="zip[]" type="checkbox" value="980"/><label class="in-label" for="zip980">980 - Bandaríkin</label></li><li><input class="in-checkbox" id="zip999" name="zip[]" type="checkbox" value="999"/><label class="in-label" for="zip999">999 - Erlendis - Annað</label></li></ul></div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="form__element element--hasDropdown">
+<label>Tegund</label>
+<div class="form__description">Veljið tegund úr lista</div>
+<div class="dropdown">
+<div class="dropdown__toggle"><i class="fa fa-list"></i></div>
+<div class="dropdown__content">
+<div class="checkboxlist" id="menu-tegund-fast">
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-2" name="menu-tegund-fast-2" type="checkbox" value="2"/>
+<label class="in-label" for="menu-tegund-fast-2">Fjölbýlishús</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-1" name="menu-tegund-fast-1" type="checkbox" value="1"/>
+<label class="in-label" for="menu-tegund-fast-1">Einbýlishús</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-4" name="menu-tegund-fast-4" type="checkbox" value="4"/>
+<label class="in-label" for="menu-tegund-fast-4">Raðhús</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-7" name="menu-tegund-fast-7" type="checkbox" value="7"/>
+<label class="in-label" for="menu-tegund-fast-7">Parhús</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-17" name="menu-tegund-fast-17" type="checkbox" value="17"/>
+<label class="in-label" for="menu-tegund-fast-17">Hæð</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-3" name="menu-tegund-fast-3" type="checkbox" value="3"/>
+<label class="in-label" for="menu-tegund-fast-3">Atvinnuhúsnæði</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-6" name="menu-tegund-fast-6" type="checkbox" value="6"/>
+<label class="in-label" for="menu-tegund-fast-6">Sumarhús</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-8" name="menu-tegund-fast-8" type="checkbox" value="8"/>
+<label class="in-label" for="menu-tegund-fast-8">Lóð</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-35" name="menu-tegund-fast-35" type="checkbox" value="35"/>
+<label class="in-label" for="menu-tegund-fast-35">Hesthús</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-36" name="menu-tegund-fast-36" type="checkbox" value="36"/>
+<label class="in-label" for="menu-tegund-fast-36">Óflokkað</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="form__element">
+<label for="menu-keywords">Gata</label>
+<input id="menu-keywords" type="text" value=""/>
+</div>
+<div class="form__element element--hasSelect" id="menu-price">
+<label>Verð</label>
+<div class="element__inner">
+<select id="oldsearch-pricefrom">
+<option value="0">0</option>
+<option value="1000000">1</option>
+<option value="5000000">5</option>
+<option value="10000000">10</option>
+<option value="15000000">15</option>
+<option value="20000000">20</option>
+<option value="25000000">25</option>
+<option value="30000000">30</option>
+<option value="35000000">35</option>
+<option value="40000000">40</option>
+<option value="45000000">45</option>
+<option value="50000000">50</option>
+<option value="55000000">55</option>
+<option value="60000000">60</option>
+<option value="65000000">65</option>
+<option value="70000000">70</option>
+<option value="80000000">80</option>
+<option value="90000000">90</option>
+<option value="100000000">100</option>
+<option value="125000000">125</option>
+<option value="150000000">150</option>
+</select>
+					-
+					<select id="oldsearch-priceto">
+<option value="1000000">1</option>
+<option value="5000000">5</option>
+<option value="10000000">10</option>
+<option value="15000000">15</option>
+<option value="20000000">20</option>
+<option value="25000000">25</option>
+<option value="30000000">30</option>
+<option value="35000000">35</option>
+<option value="40000000">40</option>
+<option value="45000000">45</option>
+<option value="50000000">50</option>
+<option value="55000000">55</option>
+<option value="60000000">60</option>
+<option value="65000000">65</option>
+<option value="70000000">70</option>
+<option value="80000000">80</option>
+<option value="90000000">90</option>
+<option value="100000000">100</option>
+<option value="125000000">125</option>
+<option value="150000000">150</option>
+<option value="15000000000">&gt; 150</option>
+</select>
+					millj. kr.
+				</div>
+</div>
+<div class="form__element element--hasSelect">
+<label>Stærð</label>
+<div class="element__inner" id="menu-size">
+<select id="oldsearch-sizefrom">
+<option value="0">0</option>
+<option value="40">40</option>
+<option value="60">60</option>
+<option value="70">70</option>
+<option value="80">80</option>
+<option value="90">90</option>
+<option value="100">100</option>
+<option value="115">115</option>
+<option value="130">130</option>
+<option value="150">150</option>
+<option value="200">200</option>
+<option value="250">250</option>
+<option value="300">300</option>
+<option value="350">350</option>
+<option value="400">400</option>
+<option value="500">500</option>
+<option value="600">600</option>
+<option value="700">700</option>
+<option value="800">800</option>
+<option value="900">900</option>
+<option value="1000">1000</option>
+</select>
+					-
+					<select id="oldsearch-sizeto">
+<option value="0">0</option>
+<option value="40">40</option>
+<option value="60">60</option>
+<option value="70">70</option>
+<option value="80">80</option>
+<option value="90">90</option>
+<option value="100">100</option>
+<option value="115">115</option>
+<option value="130">130</option>
+<option value="150">150</option>
+<option value="200">200</option>
+<option value="250">250</option>
+<option value="300">300</option>
+<option value="350">350</option>
+<option value="400">400</option>
+<option value="500">500</option>
+<option value="600">600</option>
+<option value="700">700</option>
+<option value="800">800</option>
+<option value="900">900</option>
+<option value="1000">1000</option>
+</select>
+					fermetrar
+				</div>
+</div>
+<div class="form__element element--hasSelect">
+<label>Herb.</label>
+<div class="element__inner" id="menu-rooms">
+<select id="oldsearch-roomfrom">
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+</select>
+					-
+					<select id="oldsearch-roomto">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+</select>
+					herbergi
+				</div>
+</div>
+<div class="form__element">
+<a class="button" href="javascript:void(0)" id="menu-submit">Sjá <span id="submitTotal"></span> eignir</a>
+</div>
+</div>
+<div class="form__lower">
+<div class="form__container" id="sidebar-period">
+<div class="form__column">
+<div class="form__element">
+<input class="in-checkbox set-search-period" id="set-day-sale" name="period-sale" type="checkbox" value="1"/>
+<label class="in-label" for="set-day-sale">Nýtt í dag</label>
+</div>
+</div>
+<div class="form__column">
+<div class="form__element">
+<input class="in-checkbox set-search-period" id="set-week-sale" name="period-sale" type="checkbox" value="7"/>
+<label class="in-label" for="set-week-sale">Nýtt í vikunni</label>
+</div>
+</div>
+</div>
+<div class="form__container" id="menu-annad">
+<div class="form__column">
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-garden" type="checkbox" value="garden"/>
+<label class="in-label" for="menu-annad-garden">Garður</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-veranda" type="checkbox" value="veranda"/>
+<label class="in-label" for="menu-annad-veranda">Verönd</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-balcony" type="checkbox" value="balcony"/>
+<label class="in-label" for="menu-annad-balcony">Svalir</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-extra_apartment" type="checkbox" value="extra_apartment"/>
+<label class="in-label" for="menu-annad-extra_apartment">Aukaíbúð</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-entrance_private" name="menu-annad-entrance_private" type="checkbox" value="entrance_private"/>
+<label class="in-label" for="menu-annad-entrance_private">Sérinngangur</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-not_finished" name="menu-annad-not_finished" type="checkbox" value="not_finished"/>
+<label class="in-label" for="menu-annad-not_finished">Nýbygging</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-finished" name="menu-annad-finished" type="checkbox" value="finished"/>
+<label class="in-label" for="menu-annad-finished">Fokhelt</label>
+</div>
+</div>
+<div class="form__column">
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-elevator" type="checkbox" value="elevator"/>
+<label class="in-label" for="menu-annad-elevator">Lyfta</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-wheelchair_friendly" type="checkbox" value="wheelchair_friendly"/>
+<label class="in-label" for="menu-annad-wheelchair_friendly">Hjólastólaaðgengi</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-available_now" type="checkbox" value="available_now"/>
+<label class="in-label" for="menu-annad-available_now">Laus strax</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-openhouse" name="menu-annad-openhouse" type="checkbox" value="openhouse"/>
+<label class="in-label" for="menu-annad-openhouse">Opið hús</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-garage" name="menu-annad-garage" type="checkbox" value="garage"/>
+<label class="in-label" for="menu-annad-garage">Bílskúr</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-annad-parkinglot" name="menu-annad-parkinglot" type="checkbox" value="parkinglot"/>
+<label class="in-label" for="menu-annad-parkinglot">Bílastæði</label>
+</div>
+<div class="form__element">
+<input class="in-checkbox" id="menu-tegund-fast-80p" type="checkbox" value="80p"/>
+<label class="in-label" for="menu-tegund-fast-80p">80%+ áhvílandi</label>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="result-placeholder"></div>
+</div>
+<div class="h-sidebar">
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div class="search__overlay"></div>
+<div class="clearfix"></div>
+<div style="display: none">
+<div id="send_suggestion" style="width: 540px;">
+<div class="b-popup-content">
+<h3>Senda ábendingu á Fasteignir.is</h3>
+<div class="b-popup-form">
+<form action="#" id="send_suggestion" method="post">
+<input id="suggestion_link" name="link" type="hidden" value="http://fasteignir.visir.is/search/results">
+<div class="message"></div>
+<div class="element">
+<label for="suggestion_name">Þitt nafn:</label>
+<input class="b-input-text" id="suggestion_name" name="name" type="text">
+</input></div>
+<div class="element half">
+<label for="suggestion_phone">Símanúmer:</label>
+<input class="b-input-text" id="suggestion_phone" name="phone" type="text">
+</input></div>
+<div class="element">
+<label for="suggestion_email">Netfang:</label>
+<input class="b-input-text" id="suggestion_email" name="email" type="text">
+</input></div>
+<div class="element half">
+<label for="suggestion_captcha">Ruslpóstavörn:</label>
+<img alt="Captcha" class="captcha" height="50" src="/index.php/captcha/default" width="150"/>
+<input class="b-input-text" id="suggestion_captcha" name="captcha" type="text">
+</input></div>
+<div class="element">
+<label for="suggestion_query">Fyrirspurn:</label>
+<textarea class="b-input-textarea" cols="30" id="suggestion_query" name="query" rows="10"></textarea>
+</div>
+<input class="b-input-submit" type="submit" value="SENDA"/>
+</input></form>
+</div>
+</div>
+<div class="clearfix"></div>
+</div></div>
+<div class="footer">
+<div class="noprint" id="webtree">
+<div class="wrapper clearfix">
+<div class="centre">
+<div class="grein webtree">
+<div>
+<a href="http://syn.is"><h3 class="syn">Sýn</h3></a>
+</div>
+<ul>
+<li class="item left-c c-1">Suðurlandsbraut 8</li>
+<li class="item left-c c-1">108 Reykjavík</li>
+<li class="item left-c c-1">Sími 599 9000</li>
+</ul>
+</div>
+<div class="grein webtree">
+<h3>
+<a href="http://www.visir.is/f/frettir">Vísir</a>
+</h3>
+<ul>
+<li><a href="tel:+354512-5200">512-5200</a></li>
+<li><a href="http://auglysingar.visir.is/" rel="noreferrer nopener" target="_blank">Auglýsingar</a></li>
+<li><a href="mailto:ritstjorn@visir.is">Hafðu samband</a></li>
+<li><a href="http://visir.is/starfsfolk">Starfsfólk</a></li>
+<li><a href="http://topplistar.gallup.is/" rel="noreferrer nopener" target="_blank">Umferð</a></li>
+<li><a href="https://postur.internet.is" rel="noreferrer noopener" target="_blank">Vefpóstur</a></li>
+</ul>
+</div>
+<div class="grein webtree">
+<h3 class="item">
+						Fréttaflokkar
+					</h3>
+<ul>
+<li><a href="http://www.visir.is/f/frettir">Fréttir</a></li>
+<li><a href="http://www.visir.is/f/vidskipti">Viðskipti</a></li>
+<li><a href="http://www.visir.is/f/sport">Sport</a></li>
+<li><a href="http://www.visir.is/f/lifid">Lífið</a></li>
+<li><a href="http://www.visir.is/f/skodanir">Skoðun</a></li>
+<li><a href="http://www.visir.is/sjonvarp">Sjónvarp</a></li>
+<li><a href="http://www.visir.is/utvarp">Útvarp</a></li>
+</ul>
+</div>
+<div class="grein webtree last">
+<h3 class="item">
+						Fleiri flokkar
+					</h3>
+<ul>
+<li><a href="http://fasteignir.visir.is" rel="noreferrer nopener" target="_blank">Fasteignir</a></li>
+<li><a href="http://www.visir.is/p/veidi" rel="noreferrer noopener" target="_blank">Veiðivísir</a></li>
+<li><a href="http://www.visir.is/p/vedur" rel="noreferrer noopener" target="_blank">Veður</a></li>
+<li><a href="http://bylgjan.visir.is" rel="noreferrer noopener" target="_blank">Bylgjan</a></li>
+<li><a href="http://fm957.visir.is/" rel="noreferrer noopener" target="_blank">FM957</a></li>
+<li><a href="http://x977.visir.is" rel="noreferrer noopener" target="_blank">X-ið</a></li>
+</ul>
+<ul class="footer-social">
+<li><a href="https://www.facebook.com/visir.is"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://www.twitter.com/visir_is"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/visir.is"><i class="fa fa-instagram"></i></a></li>
+<li><a href="http://www.visir.is/rss/allt"><i class="fa fa-rss-square"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
+<script type="text/javascript">(function ($, d) {
+		$.each(readyQ, function (i, f) {
+			$(f)
+		});
+		$.each(bindReadyQ, function (i, f) {
+			$(d).bind("ready", f)
+		})
+	})(jQuery, document)</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.11/js/lightgallery.min.js" type="text/javascript"></script>
+<script src="/minify/?g=js&amp;v=3be85930760939a2653068d2f18bbe2033616c1e" type="text/javascript"></script>
+<script type="text/javascript">
+		$(function () {
+			application.initExtendedSearchEngine();
+$("#result-placeholder").on('click', 'a.b-products-label', function () {
+	var $this = $(this);
+	$.get('/ajax/photolist', {id: $this.data('id'), type: $this.data('type')}, function(response){
+		var el = $('#foto-popup');
+		el.html(response);
+
+		$('#lightGallery').lightGallery({
+			thumbnail: true,
+			download: false,
+		});
+
+		el.find('a:first').trigger('click');
+	});
+
+	return false;
+});
+		});
+		$(function () {
+			$(function() {
+	application.initializeSidebarTabs();
+	application.initUi();
+});
+		});
+			</script>
+<script id="jstmpl-fb-msg-favorites" type="text/template">
+			<div class="b-favorites-message {{status}}">{{msg}}</div>
+		</script>
+<script src="/js/EAS_fif.js" type="text/javascript"></script>
+<script type="text/javascript">
+	<!-- //<![CDATA[
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-4360339-3']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+	//]]>
+	//-->
+</script>
+<!-- Begin comScore Inline Tag 1.1302.13 -->
+<script language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/19986860/cs.js" type="text/javascript"></script>
+<!-- End comScore Inline Tag -->
+<!-- Virk vefmaeling byrjar. Vefur: http://www.visir.is -->
+<script language="javascript" type="text/javascript"><!--
+	var p_run_js = 0; //-->
+</script>
+<script language="javascript1.1" type="text/javascript"><!--
+	var p_run_js = 1; //-->
+</script>
+<script language="javascript" type="text/javascript">
+	<!-- //<![CDATA[
+	var service_id = "43";
+	var portion = "9";
+	var page = "Fasteignir"
+	if (!p_run_js) {
+		document.write('<img width="1" height="1" src="http://visir-is.teljari.is/potency/potency.php?o=' + service_id + ';i=' + portion + ';p=' + page + ';j=1.0" alt="" border="0" />');
+	}
+	(function () {
+		var script = document.createElement('script');
+		script.type = 'text/javascript';
+		script.async = true;
+		script.src = 'http://visir-is.teljari.is/potency/js/potency.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(script, s);
+	})();
+	//]]>
+	//--></script>
+<noscript><img alt="" border="0" height="1" src="http://visir-is.teljari.is/potency/potency.php?o=43;i=9;p=Fasteignir" width="1"/></noscript>
+<!-- Virk vefmaeling endar -->
+</body>
+</html>
+<div id="pop-up">
+<h2 class="pop-title">
+		Nýtt! Náðu í appið fyrir iPhone símann þinn.
+	</h2>
+<div class="pop-main">
+<div class="pop-rating">
+<div class="pop-right">
+<div class="pop-top">
+<p>Fasteignir.is</p>
+<i aria-hidden="true" class="fa fa-star"></i>
+<i aria-hidden="true" class="fa fa-star"></i>
+<i aria-hidden="true" class="fa fa-star"></i>
+<i aria-hidden="true" class="fa fa-star"></i>
+<i aria-hidden="true" class="fa fa-star"></i>
+</div>
+<div class="pop-bottom">Available in the App Store</div>
+</div>
+<div class="pop-links">
+<a class="pop-view" href="#" onclick="application.hideAppPopup(); return false;">Skoða vefinn</a>
+<a class="pop-view pop-view-right" href="https://itunes.apple.com/md/app/fasteignir/id601141430?mt=8">Setja upp appið</a>
+<div style="clear:both;display: table;content:'';"></div>
+</div>
+</div>
+</div>
+<div class="pop-close"></div>
+</div>
+<script>
+	$(function() {
+		application.initAppPopup();
+	});
+</script>
+<div class="hidden" id="cookiePolicy">
+<div class="cookiePolicy__inner">
+		Þessi vefsíða notar fótspor (e. cookies) til að upplifun þín verði sem best.
+		Með því að halda áfram þá samþykkir þú stefnu okkar um
+		<a href="/page/vefkokur" target="_blank">notkun fótspora</a>.
+	</div>
+<div class="cookiePolicy__controls">
+<button class="menu__link" id="cookiePolicy__accept">Loka og samþykkja</button>
+</div>
+</div>
+<script>
+	$(function() {
+		application.initCookiePopup();
+	});
+</script>

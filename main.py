@@ -1,26 +1,32 @@
 from layouts.property_layout import *
 from layouts.loan_layout import *
+from layouts.savings_layout import *
 import PySimpleGUI as sg
 from functions.class_property import Property
-from math import log
+from math import log, e
 
 def update_values(new_value, *keys):
     ''' Update values an event '''
     for key in keys:
-        window[f'{key}'].update(value= "{:,}".format(new_value))
+        window[key].update(int(new_value))
 
 def update_slider_or_text(key):
     text = key.replace("slider", "text")
     slider = key.replace("text", "slider")
 
     if "slider" in key:
-        update_values("{:,}".format(values[key]), text)
+        update_values(int(values[key]), text)
     elif "text" in key:
-        update_values(values[key], slider)
+        update_values(int(values[key]), slider)
         
+def format_numbers(number):
+    if "," in number:
+        pass
+    else:
+        new_number
 
 layout = [
-    [sg.TabGroup([[sg.Tab("Property", property_layout), sg.Tab("Loan", loan_layout)]])]
+    [sg.TabGroup([[sg.Tab("Property", property_layout), sg.Tab("Loan", loan_layout), sg.Tab("Savings", savings_layout)]])]
 ]
 
 window = sg.Window("Property Calculator", layout, size= (640, 480))
@@ -60,12 +66,32 @@ while True:
     if event == "_property_evaluation_text_":
         update_slider_or_text(event)
 
-    if event == "_loan_amount_text_" or "_loan_amount_slider_":
-        update_values("{:,}".format(values["_loan_amount_text_"]), "_loan_amount_slider_")
-        update_values(values["_property_market_value_text_"] - values["_loan_amount_text_"], "_down_payment_text_", "_down_payment_slider_")
+    if event == "_loan_amount_text_":
+        update_values(values["_loan_amount_text_"], "_loan_amount_slider_")
+        update_values(int(values["_property_market_value_text_"]) - int(values["_loan_amount_text_"]), "_down_payment_text_", "_down_payment_slider_")
+        
+    if event == "_loan_amount_slider_":
+        update_values(values["_loan_amount_slider_"], "_loan_amount_text_" )
+        update_values(int(values["_property_market_value_text_"]) - int(values["_loan_amount_text_"]), "_down_payment_text_", "_down_payment_slider_")
 
     if event == "_down_payment_text_" or event == "_down_payment_slider_":
         update_slider_or_text(event)
-        update_values(values["_property_market_value_text_"] - values["_down_payment_text_"], "_loan_amount_text_", "_loan_amount_slider_")
+        update_values(int(values["_property_market_value_text_"]) - int(values["_down_payment_text_"]), "_loan_amount_text_", "_loan_amount_slider_")
+    
+    if event == "Calculate Savings": 
+        interest = float(values["_savings_interest_"]) / 100
+        years = int(values["_saving_years_"])
+        months = years * 12
+        days = months * 30
+        monthly_savings = int(values["_month_savings_"])
+        current_amount = int(values["_current_amount_"])
 
+        total_months = 0
+        for month in range(1, months + 1):
+            total_months += monthly_savings
+            total_months += (total_months * e ** interest - total_months) / 12
+        total_current = current_amount * e ** (interest * years)
+        total = total_current + total_months
+        update_values(total, "_total_savings_")
+        
 window.close()
